@@ -1,0 +1,39 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django
+*.log
+*.pot
+*.pyc
+*.mo
+*.ser
+*.pyo
+*.py~
+*.swp
+*.swo
+*.db
+*.sqlite3
+media
+.DS_Store
+
+# Environments
+venv/
+.env
+
+# JetBrains
+.idea/
